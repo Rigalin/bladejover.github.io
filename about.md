@@ -4,10 +4,39 @@ title: About
 permalink: /about/
 ---
 
-## Hey Cam!
+# Quick markdown guide for nubs
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# h1
+## h2
+### h3
+#### h4
+##### h5
+###### h6
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This is normal text.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+_This is italic text._
+
+*This is also italic text*
+
+**This is bold text**
+
+This is my sandwich, `and this is inline code`
+
+```bash
+echo "This is a code block"
+```
+
+{% highlight bash %}
+echo "This is another code block, but prettier."
+{% endhighlight %}
+
+**The cake is a lie.**
+
+|This|Is|A|Table|
+|----|--|-|-----|
+|Cell|Cell|Cell|Cell|
+
+[This is a link](http://bladejover.github.io/about/)
+
+![Octocat is beautiful](https://octodex.github.com/images/gangnamtocat.png)
