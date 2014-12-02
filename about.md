@@ -29,7 +29,9 @@ _This is italic text._
 This is my sandwich, `and this is inline code`
 
 ```bash
+
 echo "This is a code block"
+
 ```
 
 {% highlight bash %}
