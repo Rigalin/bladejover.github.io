@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# Quick markdown guide for nubs
+# Quick markdown guide for legends
 
 # h1
 
@@ -18,7 +18,7 @@ permalink: /about/
 
 ###### h6
 
-This is normal text.
+This is awesome text.
 
 _This is italic text._
 
